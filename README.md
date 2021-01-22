@@ -55,3 +55,51 @@ https://docs.ai-thinker.com/esp_download
 https://www.espressif.com/en/support/download/other-tools    
 也可以用make flash刷固件，不过不够直观  
 
+
+## doc  
+* esp32 ref  
+https://docs.espressif.com/projects/esp-idf/en/latest/index.html  
+
+* 安信可-NodeMCU-32S 核心开发板, esp32    
+http://wiki.aithinker.com/esp32/boards/nodemcu_32s  
+
+* ESP8266 ESP32  
+https://github.com/SmartArduino/SZDOITWiKi/wiki/ESP8266---ESP32  
+
+* ESP-IDF Programming Guide  
+https://docs.espressif.com/projects/esp-idf/en/latest/index.html  
+
+* ESP32 资源  
+https://www.espressif.com/zh-hans/products/hardware/esp32/resources  
+
+* ESP32 技术参考手册 (pdf)    
+https://www.espressif.com/sites/default/files/documentation/esp32_technical_reference_manual_cn.pdf  
+
+* ESP32 常见问题 (pdf)  
+https://www.espressif.com/sites/default/files/documentation/ESP32_FAQs__CN.pdf  
+
+## Tools  
+* esp-idf (for esp32)    
+for windows, need msys2 (from dl.espressif.com) and esp-idf two parts      
+https://docs.espressif.com/projects/esp-idf/en/stable/get-started/windows-setup.html  
+https://dl.espressif.com/dl/esp32_win32_msys2_environment_and_toolchain-20180110.zip  
+https://docs.espressif.com/projects/esp-idf/en/stable/get-started/  
+$ cd ~/esp  
+$ git clone -b v3.1.2 --recursive https://github.com/espressif/esp-idf.git  
+
+* arduino plugin (for esp32)    
+https://dl.espressif.com/dl/package_esp32_index.json  
+
+* cdt (for esp8266, esp32)    
+http://wiki.aithinker.com/ai_ide_install  
+cygwin\opt\xtensa-lx106-elf  
+cygwin\opt\xtensa-esp32-elf  
+
+* FLASH_DOWNLOAD_TOOLS  
+<> for esp32  
+(baidupan) FLASH_DOWNLOAD_TOOLS_V3.6.2.2_v1_good.rar  
+
+* esplorer  
+<> for esp32, esp8266    
+(baidupan) esplorer_v1.rar  
+
