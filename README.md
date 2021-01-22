@@ -1,6 +1,9 @@
 # wmt_esp32_study
 My ESP32 study
 
+## Old README  
+* https://github.com/weimingtom/wmt_esp32_study/blob/main/README_001.md  
+
 ## esp32 msys dev env    
 serach baidupan, esp32_blink_burn.jpg  
 search baidupan, 快速入门.docx  
@@ -104,6 +107,3 @@ cygwin\opt\xtensa-esp32-elf
 
 ## 通过ESP-IDF工具安装器在windows下搭建esp32环境  
 * https://blog.csdn.net/m0_50151793/article/details/110226199  
-
-## Old README  
-* https://github.com/weimingtom/wmt_esp32_study/blob/main/README_001.md  
