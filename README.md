@@ -103,3 +103,5 @@ cygwin\opt\xtensa-esp32-elf
 <> for esp32, esp8266    
 (baidupan) esplorer_v1.rar  
 
+## Old README  
+* https://github.com/weimingtom/wmt_esp32_study/blob/main/README_001.md  
