@@ -107,3 +107,6 @@ cygwin\opt\xtensa-esp32-elf
 
 ## 通过ESP-IDF工具安装器在windows下搭建esp32环境  
 * https://blog.csdn.net/m0_50151793/article/details/110226199  
+
+## HoloCubic--多功能透明显示屏桌面站  
+https://github.com/peng-zhihui/HoloCubic  
