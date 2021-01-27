@@ -110,3 +110,6 @@ cygwin\opt\xtensa-esp32-elf
 
 ## HoloCubic--多功能透明显示屏桌面站  
 https://github.com/peng-zhihui/HoloCubic  
+
+## 安信可IDE 0.5版本esp-idf    
+* https://dl.espressif.com/dl/esp-idf/releases/esp-idf-v2.0.zip  
