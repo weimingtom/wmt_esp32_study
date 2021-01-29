@@ -4,7 +4,7 @@ My ESP32 study
 ## Old README  
 * https://github.com/weimingtom/wmt_esp32_study/blob/main/README_001.md  
 
-## esp32 msys dev env    
+## esp32 msys2 dev env    
 serach baidupan, esp32_blink_burn.jpg  
 search baidupan, 快速入门.docx  
 https://docs.espressif.com/projects/esp-idf/zh_CN/v3.1.7/get-started/index.html  
