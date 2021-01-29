@@ -113,3 +113,18 @@ https://github.com/peng-zhihui/HoloCubic
 
 ## 安信可IDE 0.5版本esp-idf    
 * https://dl.espressif.com/dl/esp-idf/releases/esp-idf-v2.0.zip  
+
+## esp-idf v3.1.2 msys port  
+费了很大的劲，终于把esp-idf v3.1.2搬到msys上，不同于官方的  
+msys2方法和安信可的cygwin方法，我用我自己的方法解决绿色安装问题：  
+（1）工具链：可以直接用msys2里面的工具链，在opt目录下。那个工具  
+链不依赖mingw32，如果用安信可IDE版本，可能会依赖于cygwin的dll  
+（2）kconfig的两个命令：esp-idf会在构建前调用mconf-idf和conf-idf，  
+我测试过可以预编译，这样就不需要另外再加一个本机gcc工具链了。  
+但是，这两个工具不容易编译，mconf-idf依赖于ncurses，而conf-idf  
+依赖于一些linux特定的头文件，所以要费很大的功夫去改，甚至要改动  
+esp-idf的构建文件。最后，我自己编译出魔改版的conf-idf，而  
+mconf-idf直接复制conf-idf即可，因为我不需要menuconfig
+（3）几个py脚本需要转成exe，否则会依赖于本地的python，我通过  
+pyinstaller把以下几个脚本转为exe（同时需要改动esp-idf的构建脚本）：  
+esptool、gen_esp32part和parttool  
