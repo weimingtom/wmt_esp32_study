@@ -8,6 +8,7 @@ My ESP32 study
 * (TODO) cmake support    
 * (TODO) new version of toolchain  
 * (TODO) make size support  
+* (TODO) v4, s2  
 
 ## Old README  
 * https://github.com/weimingtom/wmt_esp32_study/blob/main/README_001.md  
