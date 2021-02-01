@@ -4,6 +4,7 @@ My ESP32 study
 ## msys   
 * search baidupan, msys_esp-idf_v3.1.2_v1.rar  
 * search baidupan, msys_esp-idf_v3.1.7_v1.rar  
+* search baiduapn, msys_esp-idf_v3.3.4_v1.rar  
 
 ## Old README  
 * https://github.com/weimingtom/wmt_esp32_study/blob/main/README_001.md  
