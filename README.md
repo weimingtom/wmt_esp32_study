@@ -136,3 +136,15 @@ mconf-idf直接复制conf-idf即可，因为我不需要menuconfig
 （3）几个py脚本需要转成exe，否则会依赖于本地的python，我通过  
 pyinstaller把以下几个脚本转为exe（同时需要改动esp-idf的构建脚本）：  
 esptool、gen_esp32part和parttool  
+
+## ESP32 toolchain  
+* https://dl.espressif.com/dl/xtensa-esp32-elf-gcc8_2_0-esp-2020r2-win32.zip  
+* see https://github.com/espressif/crosstool-NG/releases  
+
+## ESP32S2 toolchain    
+* https://dl.espressif.com/dl/xtensa-esp32s2-elf-gcc8_2_0-esp-2020r2-win32.zip  
+
+## ESP8266 toolchain    
+* see https://github.com/espressif/ESP8266_RTOS_SDK  
+* https://dl.espressif.com/dl/xtensa-lx106-elf-gcc8_4_0-esp-2020r3-win32.zip  
+
