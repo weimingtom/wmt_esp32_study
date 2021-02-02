@@ -11,7 +11,7 @@ My ESP32 study
 * (TODO) make size support  
 * (TODO) v4, s2  
 * (TODO) conf-idf.exe wordexp port, see esp-idf-v2.0 version  
-* (TODO) make monitor support    
+* (TODO) make monitor support (port winpty)      
 
 ## esp-idf usage:  
 * make defconfig && make  
