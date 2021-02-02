@@ -12,6 +12,9 @@ My ESP32 study
 * (TODO) conf-idf.exe wordexp port, see esp-idf-v2.0 version  
 * (TODO) make monitor support    
 
+## esp-idf usage:  
+* make defconfig && make  
+
 ## Old README  
 * https://github.com/weimingtom/wmt_esp32_study/blob/main/README_001.md  
 
