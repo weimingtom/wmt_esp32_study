@@ -9,6 +9,7 @@ My ESP32 study
 * (TODO) new version of toolchain  
 * (TODO) make size support  
 * (TODO) v4, s2  
+* (TODO) conf-idf.exe wordexp port, see esp-idf-v2.0 version  
 
 ## Old README  
 * https://github.com/weimingtom/wmt_esp32_study/blob/main/README_001.md  
