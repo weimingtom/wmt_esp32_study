@@ -151,7 +151,3 @@ esptool、gen_esp32part和parttool
 ## ESP32S2 toolchain    
 * https://dl.espressif.com/dl/xtensa-esp32s2-elf-gcc8_2_0-esp-2020r2-win32.zip  
 
-## ESP8266 toolchain    
-* see https://github.com/espressif/ESP8266_RTOS_SDK  
-* https://dl.espressif.com/dl/xtensa-lx106-elf-gcc8_4_0-esp-2020r3-win32.zip  
-
