@@ -151,3 +151,5 @@ esptool、gen_esp32part和parttool
 ## ESP32S2 toolchain    
 * https://dl.espressif.com/dl/xtensa-esp32s2-elf-gcc8_2_0-esp-2020r2-win32.zip  
 
+## 基于红旭开发板的ESP32教程  
+https://github.com/xiaolongba/HX_DK_FOR_ESP32  
