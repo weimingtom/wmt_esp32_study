@@ -160,3 +160,11 @@ IoTs2采用ESP32-S2(Xtensa 32-bit LX7单核CPU，主频达240MHz) WiFi SoC，
 3轴加速度传感器(LIS3DH)， 以及1颗可编程RGB和1颗可编程蓝色LED、  
 1个可编程按钮等资源。  
 https://python4iots2.readthedocs.io/en/latest/index.html  
+
+## ESP32_MP3_Decoder  
+https://github.com/MrBuddyCasino/ESP32_MP3_Decoder  
+
+## 《ESP32 开发指南》, 四博智联, 深圳智能创客中心  
+search baidupan, ESP32开发指南书中例子代码.rar  
+ESP32使用手册：  
+https://github.com/SmartArduino/SZDOITWiKi/wiki/ESP8266---ESP32  
