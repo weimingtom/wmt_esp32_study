@@ -153,3 +153,10 @@ esptool、gen_esp32part和parttool
 
 ## 基于红旭开发板的ESP32教程  
 https://github.com/xiaolongba/HX_DK_FOR_ESP32  
+
+## IoTs2帮助文档(Python版), 创客教育小站    
+IoTs2采用ESP32-S2(Xtensa 32-bit LX7单核CPU，主频达240MHz) WiFi SoC，   
+板上带有8MB FlashROM和8MB RAM、1.13寸彩色LCD(135x240点阵)、  
+3轴加速度传感器(LIS3DH)， 以及1颗可编程RGB和1颗可编程蓝色LED、  
+1个可编程按钮等资源。  
+https://python4iots2.readthedocs.io/en/latest/index.html  
