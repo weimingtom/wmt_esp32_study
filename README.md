@@ -168,3 +168,8 @@ https://github.com/MrBuddyCasino/ESP32_MP3_Decoder
 search baidupan, ESP32开发指南书中例子代码.rar  
 ESP32使用手册：  
 https://github.com/SmartArduino/SZDOITWiKi/wiki/ESP8266---ESP32  
+
+## ESP32WiFiBleControlProject  
+https://github.com/xuhongv/ESP32WiFiBleControlProject  
+https://aithinker.blog.csdn.net/article/details/114983580  
+https://docs.ai-thinker.com/esp32c3  
