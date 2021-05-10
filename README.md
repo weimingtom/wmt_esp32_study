@@ -173,3 +173,7 @@ https://github.com/SmartArduino/SZDOITWiKi/wiki/ESP8266---ESP32
 https://github.com/xuhongv/ESP32WiFiBleControlProject  
 https://aithinker.blog.csdn.net/article/details/114983580  
 https://docs.ai-thinker.com/esp32c3  
+
+## ESP32-BLE-Gamepad  
+https://github.com/lemmingDev/ESP32-BLE-Gamepad  
+https://whycan.com/t_6466.html  
