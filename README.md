@@ -177,3 +177,6 @@ https://docs.ai-thinker.com/esp32c3
 ## ESP32-BLE-Gamepad  
 https://github.com/lemmingDev/ESP32-BLE-Gamepad  
 https://whycan.com/t_6466.html  
+
+## ExpressLRS  
+https://github.com/ExpressLRS/ExpressLRS  
