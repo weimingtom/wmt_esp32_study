@@ -180,3 +180,13 @@ https://whycan.com/t_6466.html
 
 ## ExpressLRS  
 https://github.com/ExpressLRS/ExpressLRS  
+
+## Using esp-idf v4.3 to build esp32c3 firmware  
+我测试过，可以很丝滑地用esp-idf v4.3编译出esp32c3的固件。  
+首先，你需要很清楚知道目前最新版esp-idf的执行原理，  
+它是通过用cmake来代替make，直接调用gcc工具链而非转换成makefile。  
+所以linux版安装过程很简单，首先用virtualbox搭建一个xubuntu 20.04环境，  
+然后下载解压导出PATH安装cmake，然后下载解压esp-idf-v4.3.zip，  
+然后执行install.sh安装工具链和venv，然后执行export.sh导出PATH，  
+然后复制blink示例到某个目录，然后执行idf.py set-target esp32c3，  
+然后idf.py menuconfig，最后idf.py build即可  
