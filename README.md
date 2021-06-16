@@ -190,3 +190,6 @@ https://github.com/ExpressLRS/ExpressLRS
 然后执行install.sh安装工具链和venv，然后执行export.sh导出PATH，  
 然后复制blink示例到某个目录，然后执行idf.py set-target esp32c3，  
 然后idf.py menuconfig，最后idf.py build即可  
+
+## Watchy  
+https://github.com/sqfmi/Watchy  
