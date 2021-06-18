@@ -193,3 +193,15 @@ https://github.com/ExpressLRS/ExpressLRS
 
 ## Watchy  
 https://github.com/sqfmi/Watchy  
+
+## 安信可ESP32-C3-13, AI-Thinker ESP32-C3-13-kit    
+今天入手了安信可ESP32-C3-13开发板（外置2MB Flash版），  
+我把blink闪烁灯的固件刷进去了（用最新的esp-idf编译，用xubuntu运行），  
+刷固件是用Windows的工具flash_download_tool_v3.8.8。  
+刷完之后可以看到蓝色灯珠闪烁，应该就是GPIO5，  
+如果在排针IO5上接LED也有相似的效果。  
+安信可的这块板有个缺点，没办法看到串口日志，  
+只能通过另一个USB-TTL转换器（我用的是FT232）  
+接排针的三线串口（RX/TX/GND），板上的USB只供电，  
+才能看到串口输出，方式是115200-8-1-N，流控任意  
+
