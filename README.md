@@ -205,3 +205,5 @@ https://github.com/sqfmi/Watchy
 接排针的三线串口（RX/TX/GND），板上的USB只供电，  
 才能看到串口输出，方式是115200-8-1-N，流控任意  
 
+## IoTs2  
+https://python4iots2.readthedocs.io/en/latest/index.html  
