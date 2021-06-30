@@ -207,3 +207,7 @@ https://github.com/sqfmi/Watchy
 
 ## IoTs2  
 https://python4iots2.readthedocs.io/en/latest/index.html  
+
+## ESP32-CAM    
+https://github.com/donny681/ESP32_CAMERA_QR/wiki  
+https://www.waveshare.com/wiki/ESP32-CAM  
