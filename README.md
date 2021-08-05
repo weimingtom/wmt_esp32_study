@@ -211,3 +211,10 @@ https://python4iots2.readthedocs.io/en/latest/index.html
 ## ESP32-CAM    
 https://github.com/donny681/ESP32_CAMERA_QR/wiki  
 https://www.waveshare.com/wiki/ESP32-CAM  
+
+## wifiboy  
+https://www.wifiboy.org/tw/  
+https://wifiboy.club  
+
+## esp32_mmd  
+https://github.com/elect-gombe/esp32_mmd  
