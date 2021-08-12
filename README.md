@@ -218,3 +218,6 @@ https://wifiboy.club
 
 ## esp32_mmd  
 https://github.com/elect-gombe/esp32_mmd  
+
+## A wifi webradio with only low cost boards ESP8266 and VS1053 by Jp Cocatrix  
+https://github.com/karawin/Ka-Radio32  
