@@ -221,3 +221,7 @@ https://github.com/elect-gombe/esp32_mmd
 
 ## A wifi webradio with only low cost boards ESP8266 and VS1053 by Jp Cocatrix  
 https://github.com/karawin/Ka-Radio32  
+
+## 启明云端, WT32-SC01/ESP32彩屏/3.5寸 串口屏 320*480 /启明云端/HMI/8ms  
+https://item.taobao.com/item.htm?id=611104447515  
+https://github.com/wireless-tag-cn/lv_port_esp32  
