@@ -1,6 +1,9 @@
 # wmt_esp32_study
 My ESP32 study
 
+## cmd  
+* search baidupan, esp-idf-4.3_v2_200m.part01.rar  
+
 ## msys   
 * search baidupan, msys_esp-idf_v3.1.2_v1.rar  
 * search baidupan, msys_esp-idf_v3.1.7_v1.rar  
