@@ -234,3 +234,11 @@ https://github.com/guanglun/ATouch
 https://github.com/guanglun/ESP32_CH374U  
 https://item.taobao.com/item.htm?id=595635571591  
 http://guanglundz.com/atouch/guide  
+
+## ESP32彩屏 触摸屏 实现儿童绘本 点点点 WT32-SC01  
+https://www.bilibili.com/video/av585272027/  
+启明云端  
+http://esp32.8ms.xyz/login 。  
+开源地址：https://github.com/wireless-tag-cn/lv_port_esp32  
+320*RGB*480:WT-352215-A2    
+ESP32-WROVER-B:8MB PSRAM+4MB Flash  
