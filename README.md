@@ -228,3 +228,9 @@ https://github.com/karawin/Ka-Radio32
 ## 启明云端, WT32-SC01/ESP32彩屏/3.5寸 串口屏 320*480 /启明云端/HMI/8ms  
 https://item.taobao.com/item.htm?id=611104447515  
 https://github.com/wireless-tag-cn/lv_port_esp32  
+
+## 光轮电子, Atouch, 吃鸡开发板(ATouch)    
+https://github.com/guanglun/ATouch  
+https://github.com/guanglun/ESP32_CH374U  
+https://item.taobao.com/item.htm?id=595635571591  
+http://guanglundz.com/atouch/guide  
