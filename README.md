@@ -245,3 +245,9 @@ ESP32-WROVER-B:8MB PSRAM+4MB Flash
 
 ## ESP_MASTER  
 https://github.com/Kevincoooool/ESP_MASTER  
+
+## LVGL, 恩创显示模组 Nscreen32  
+https://yeacreate.com.cn/zh/product/nscreen32.html  
+https://store.yeacreate.com.cn/products/3  
+https://github.com/yeacreate-opensources/Nscreen_32  
+search baidupan, Nscreen_32-master.zip  
