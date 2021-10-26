@@ -242,3 +242,6 @@ http://esp32.8ms.xyz/login 。
 开源地址：https://github.com/wireless-tag-cn/lv_port_esp32  
 320*RGB*480:WT-352215-A2    
 ESP32-WROVER-B:8MB PSRAM+4MB Flash  
+
+## ESP_MASTER  
+https://github.com/Kevincoooool/ESP_MASTER  
