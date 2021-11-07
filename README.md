@@ -254,3 +254,6 @@ search baidupan, Nscreen_32-master.zip
 
 ## Cloud-native IoT operating system for microcontrollers. With Xtensa architecture support.  
 https://github.com/foss-xtensa/amazon-freertos  
+
+## ESPHome is a system to control your ESP8266/ESP32  
+https://github.com/esphome/esphome  
