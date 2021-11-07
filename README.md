@@ -251,3 +251,6 @@ https://yeacreate.com.cn/zh/product/nscreen32.html
 https://store.yeacreate.com.cn/products/3  
 https://github.com/yeacreate-opensources/Nscreen_32  
 search baidupan, Nscreen_32-master.zip  
+
+## Cloud-native IoT operating system for microcontrollers. With Xtensa architecture support.  
+https://github.com/foss-xtensa/amazon-freertos  
