@@ -257,3 +257,8 @@ https://github.com/foss-xtensa/amazon-freertos
 
 ## ESPHome is a system to control your ESP8266/ESP32  
 https://github.com/esphome/esphome  
+
+## wt32-sc01  
+* https://github.com/lovyan03/LovyanGFX  
+* https://macsbug.wordpress.com/2022/03/10/lvgl-8-demo-with-wt32-sc01/  
+* https://macsbug.wordpress.com/2022/03/04/lvgl-8-demo-with-m5stack/  
