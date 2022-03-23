@@ -262,3 +262,6 @@ https://github.com/esphome/esphome
 * https://github.com/lovyan03/LovyanGFX  
 * https://macsbug.wordpress.com/2022/03/10/lvgl-8-demo-with-wt32-sc01/  
 * https://macsbug.wordpress.com/2022/03/04/lvgl-8-demo-with-m5stack/  
+
+## QuickJS_ESP32_IoT_Device  
+* https://github.com/poruruba/QuickJS_ESP32_IoT_Device  
