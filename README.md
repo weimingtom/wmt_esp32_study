@@ -265,3 +265,9 @@ https://github.com/esphome/esphome
 
 ## QuickJS_ESP32_IoT_Device  
 * https://github.com/poruruba/QuickJS_ESP32_IoT_Device  
+
+## esp32-gameboy  
+* https://github.com/lualiliu/esp32-gameboy  
+ 
+## esp32 infones  
+* https://gitee.com/weimingtom2000/infones  
