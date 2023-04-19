@@ -275,3 +275,6 @@ https://github.com/esphome/esphome
 ## SmallDesktopDisplay_2432S028R, Arduino IDE, Program ROM Flash not enough  
 * Board: ESP32 Dev Module  
 * Partition Scheme: Huge APP (3MB No OTA/1MB SPIFFS)   
+* SmallDesktopDisplay_v4.rar  
+* 4_11_SmallDesktopDisplay.rar  
+
