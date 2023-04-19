@@ -271,3 +271,7 @@ https://github.com/esphome/esphome
  
 ## esp32 infones  
 * https://gitee.com/weimingtom2000/infones  
+
+## SmallDesktopDisplay_2432S028R, Arduino IDE, Program ROM Flash not enough  
+* Board: ESP32 Dev Module  
+* Partition Scheme: Huge APP (3MB No OTA/1MB SPIFFS)   
