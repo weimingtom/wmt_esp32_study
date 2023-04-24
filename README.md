@@ -278,3 +278,5 @@ https://github.com/esphome/esphome
 * SmallDesktopDisplay_v4.rar  
 * 4_11_SmallDesktopDisplay.rar  
 
+## easyio-lib-for-esp32, search uart_rx_task   
+* https://github.com/ZhiliangMa/easyio-lib-for-esp32  
