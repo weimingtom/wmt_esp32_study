@@ -284,7 +284,7 @@ https://github.com/esphome/esphome
 ## retro-go and Retro-Yao-Mio
 * http://esp32.100ask.net/#/Retro-Yao-Mio/chapter1-1  
 * https://forums.100ask.net/t/topic/2991  
-* https://gitee.com/weidongshan/retro-go-yao-mio  
+* https://gitee.com/weidongshan/retro-go-yao-mio/tree/yao-mio/  
 * https://github.com/ducalex/retro-go  
 * https://forums.100ask.net/t/topic/1285  
 * http://esp32.100ask.net/#/Retro-Yao-Mio/chapter3-1  
