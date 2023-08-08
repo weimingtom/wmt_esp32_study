@@ -293,3 +293,7 @@ https://github.com/esphome/esphome
 
 ## ThatProject  
 * https://github.com/0015/ThatProject
+
+## RUN YOUR FAVORITE 8-BIT GAMES ON AN ESP32  
+* https://github.com/rossumur/esp_8_bit#composite-video
+* https://hackaday.com/2020/06/09/run-your-favorite-8-bit-games-on-an-esp32/  
