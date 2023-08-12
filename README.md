@@ -297,3 +297,15 @@ https://github.com/esphome/esphome
 ## RUN YOUR FAVORITE 8-BIT GAMES ON AN ESP32  
 * https://github.com/rossumur/esp_8_bit#composite-video
 * https://hackaday.com/2020/06/09/run-your-favorite-8-bit-games-on-an-esp32/  
+
+## Arduino IDE, ESP32 version  
+* arduino ide 1.8.4  
+* esp32 2.0.2 用于t-watch  
+* esp32 2.0.7 ???不好，装不了esptool.py?  
+* esp32 2.0.11 t-display-s3  
+```
+https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json  
+https://raw.githubusercontent.com/chipKIT32/chipKIT-core/master/package_chipkit_index.json  
+https://files.seeedstudio.com/arduino/package_seeeduino_boards_index.json  
+https://arduino.esp8266.com/stable/package_esp8266com_index.json  
+```
