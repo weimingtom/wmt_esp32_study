@@ -300,7 +300,7 @@ https://github.com/esphome/esphome
 
 ## Arduino IDE, ESP32 version  
 * arduino ide 1.8.4  
-* esp32 2.0.2 用于t-watch  
+* esp32 2.0.2 用于t-watch-2020-v3    
 * esp32 2.0.7 ???不好，装不了esptool.py?  
 * esp32 2.0.11 t-display-s3  
 ```
