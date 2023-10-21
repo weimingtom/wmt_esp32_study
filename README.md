@@ -309,3 +309,8 @@ https://raw.githubusercontent.com/chipKIT32/chipKIT-core/master/package_chipkit_
 https://files.seeedstudio.com/arduino/package_seeeduino_boards_index.json  
 https://arduino.esp8266.com/stable/package_esp8266com_index.json  
 ```
+
+## LILYGO T-Display-S3  
+* 游戏机代码  
+* https://github.com/Xinyuan-LilyGO/T-Display-S3/blob/main/example/nes/nes.ino
+* search baidupan, nes_td3s_v2_libraries.rar  
