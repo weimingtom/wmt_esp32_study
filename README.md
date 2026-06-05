@@ -28,6 +28,9 @@ cygwin\opt\xtensa-esp32-elf
 (baidupan) esplorer_v1.rar  
 
 ## Arduino IDE, ESP32 version  
+* GPIO/SPI/UART/I2C/I2S Pin map picture:  
+https://github.com/espressif/arduino-esp32/tree/release/v1.0  
+https://github.com/espressif/arduino-esp32/blob/release/v1.0/docs/esp32_pinmap.png  
 * arduino ide 1.8.4  
 * esp32 2.0.2 用于t-watch-2020-v3    
 * esp32 2.0.7 ???不好，装不了esptool.py?  
