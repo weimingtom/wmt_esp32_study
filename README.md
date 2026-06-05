@@ -31,6 +31,10 @@ cygwin\opt\xtensa-esp32-elf
 * GPIO/SPI/UART/I2C/I2S Pin map picture:  
 https://github.com/espressif/arduino-esp32/tree/release/v1.0  
 https://github.com/espressif/arduino-esp32/blob/release/v1.0/docs/esp32_pinmap.png  
+* arduino ide 1.8.19 and 1.8.X esp32 plugin address    
+https://academy.arduino.cc/pages/download-software   
+https://downloads.arduino.cc/arduino-1.8.19-windows.exe  
+https://dl.espressif.com/dl/package_esp32_index.json   
 * arduino ide 1.8.4  
 * esp32 2.0.2 用于t-watch-2020-v3    
 * esp32 2.0.7 ???不好，装不了esptool.py?  
