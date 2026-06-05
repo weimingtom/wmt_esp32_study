@@ -324,3 +324,8 @@ https://github.com/esphome/esphome
 
 ## LVGL, Waveshare-ESP32-S3-Touch-LCD-4.3B_playground  
 * https://github.com/weimingtom/Waveshare-ESP32-S3-Touch-LCD-4.3B_playground  
+
+## work_tdeck
+
+## work_m5cardputer
+
