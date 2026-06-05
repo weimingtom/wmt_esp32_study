@@ -1,6 +1,66 @@
 # wmt_esp32_study
 My ESP32 study
 
+## Tools  
+* esp-idf (for esp32)    
+https://dl.espressif.cn/dl/esp-idf/  
+for windows, need msys2 (from dl.espressif.com) and esp-idf two parts      
+https://docs.espressif.com/projects/esp-idf/en/stable/get-started/windows-setup.html  
+https://dl.espressif.com/dl/esp32_win32_msys2_environment_and_toolchain-20180110.zip  
+https://docs.espressif.com/projects/esp-idf/en/stable/get-started/  
+$ cd ~/esp  
+$ git clone -b v3.1.2 --recursive https://github.com/espressif/esp-idf.git  
+
+* arduino plugin (for esp32)    
+https://dl.espressif.com/dl/package_esp32_index.json  
+
+* cdt (for esp8266, esp32)    
+http://wiki.aithinker.com/ai_ide_install  
+cygwin\opt\xtensa-lx106-elf  
+cygwin\opt\xtensa-esp32-elf  
+
+* FLASH_DOWNLOAD_TOOLS  
+<> for esp32  
+(baidupan) FLASH_DOWNLOAD_TOOLS_V3.6.2.2_v1_good.rar  
+
+* esplorer  
+<> for esp32, esp8266    
+(baidupan) esplorer_v1.rar  
+
+## Arduino IDE, ESP32 version  
+* arduino ide 1.8.4  
+* esp32 2.0.2 用于t-watch-2020-v3    
+* esp32 2.0.7 ???不好，装不了esptool.py?  
+* esp32 2.0.11 t-display-s3  
+```
+https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json  
+https://raw.githubusercontent.com/chipKIT32/chipKIT-core/master/package_chipkit_index.json  
+https://files.seeedstudio.com/arduino/package_seeeduino_boards_index.json  
+https://arduino.esp8266.com/stable/package_esp8266com_index.json  
+```
+
+## doc  
+* esp32 ref  
+https://docs.espressif.com/projects/esp-idf/en/latest/index.html  
+
+* 安信可-NodeMCU-32S 核心开发板, esp32    
+http://wiki.aithinker.com/esp32/boards/nodemcu_32s  
+
+* ESP8266 ESP32  
+https://github.com/SmartArduino/SZDOITWiKi/wiki/ESP8266---ESP32  
+
+* ESP-IDF Programming Guide  
+https://docs.espressif.com/projects/esp-idf/en/latest/index.html  
+
+* ESP32 资源  
+https://www.espressif.com/zh-hans/products/hardware/esp32/resources  
+
+* ESP32 技术参考手册 (pdf)    
+https://www.espressif.com/sites/default/files/documentation/esp32_technical_reference_manual_cn.pdf  
+
+* ESP32 常见问题 (pdf)  
+https://www.espressif.com/sites/default/files/documentation/ESP32_FAQs__CN.pdf  
+
 ## cmd  
 * search baidupan, esp-idf-4.3_v2_200m.part01.rar  
 
@@ -74,54 +134,6 @@ https://docs.ai-thinker.com/esp_download
 而flash_download_tool在官网下：  
 https://www.espressif.com/en/support/download/other-tools    
 也可以用make flash刷固件，不过不够直观  
-
-
-## doc  
-* esp32 ref  
-https://docs.espressif.com/projects/esp-idf/en/latest/index.html  
-
-* 安信可-NodeMCU-32S 核心开发板, esp32    
-http://wiki.aithinker.com/esp32/boards/nodemcu_32s  
-
-* ESP8266 ESP32  
-https://github.com/SmartArduino/SZDOITWiKi/wiki/ESP8266---ESP32  
-
-* ESP-IDF Programming Guide  
-https://docs.espressif.com/projects/esp-idf/en/latest/index.html  
-
-* ESP32 资源  
-https://www.espressif.com/zh-hans/products/hardware/esp32/resources  
-
-* ESP32 技术参考手册 (pdf)    
-https://www.espressif.com/sites/default/files/documentation/esp32_technical_reference_manual_cn.pdf  
-
-* ESP32 常见问题 (pdf)  
-https://www.espressif.com/sites/default/files/documentation/ESP32_FAQs__CN.pdf  
-
-## Tools  
-* esp-idf (for esp32)    
-for windows, need msys2 (from dl.espressif.com) and esp-idf two parts      
-https://docs.espressif.com/projects/esp-idf/en/stable/get-started/windows-setup.html  
-https://dl.espressif.com/dl/esp32_win32_msys2_environment_and_toolchain-20180110.zip  
-https://docs.espressif.com/projects/esp-idf/en/stable/get-started/  
-$ cd ~/esp  
-$ git clone -b v3.1.2 --recursive https://github.com/espressif/esp-idf.git  
-
-* arduino plugin (for esp32)    
-https://dl.espressif.com/dl/package_esp32_index.json  
-
-* cdt (for esp8266, esp32)    
-http://wiki.aithinker.com/ai_ide_install  
-cygwin\opt\xtensa-lx106-elf  
-cygwin\opt\xtensa-esp32-elf  
-
-* FLASH_DOWNLOAD_TOOLS  
-<> for esp32  
-(baidupan) FLASH_DOWNLOAD_TOOLS_V3.6.2.2_v1_good.rar  
-
-* esplorer  
-<> for esp32, esp8266    
-(baidupan) esplorer_v1.rar  
 
 ## 通过ESP-IDF工具安装器在windows下搭建esp32环境  
 * https://blog.csdn.net/m0_50151793/article/details/110226199  
@@ -298,19 +310,10 @@ https://github.com/esphome/esphome
 * https://github.com/rossumur/esp_8_bit#composite-video
 * https://hackaday.com/2020/06/09/run-your-favorite-8-bit-games-on-an-esp32/  
 
-## Arduino IDE, ESP32 version  
-* arduino ide 1.8.4  
-* esp32 2.0.2 用于t-watch-2020-v3    
-* esp32 2.0.7 ???不好，装不了esptool.py?  
-* esp32 2.0.11 t-display-s3  
-```
-https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json  
-https://raw.githubusercontent.com/chipKIT32/chipKIT-core/master/package_chipkit_index.json  
-https://files.seeedstudio.com/arduino/package_seeeduino_boards_index.json  
-https://arduino.esp8266.com/stable/package_esp8266com_index.json  
-```
-
 ## LILYGO T-Display-S3  
 * 游戏机代码  
 * https://github.com/Xinyuan-LilyGO/T-Display-S3/blob/main/example/nes/nes.ino
 * search baidupan, nes_td3s_v2_libraries.rar  
+
+## LVGL, Waveshare-ESP32-S3-Touch-LCD-4.3B_playground  
+* https://github.com/weimingtom/Waveshare-ESP32-S3-Touch-LCD-4.3B_playground  
