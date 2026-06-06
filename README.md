@@ -326,6 +326,9 @@ https://github.com/esphome/esphome
 * https://github.com/weimingtom/Waveshare-ESP32-S3-Touch-LCD-4.3B_playground  
 
 ## work_tdeck
+* https://github.com/weimingtom/wmt_tdeck_study  
+* search baidupan work_tdeck
 
 ## work_m5cardputer
+* search baidupan work_m5cardputer
 
