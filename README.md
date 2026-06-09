@@ -331,4 +331,13 @@ https://github.com/esphome/esphome
 
 ## work_m5cardputer
 * search baidupan work_m5cardputer
-
+* https://github.com/geo-tp/Cardputer-Game-Station-Emulators/releases/tag/v0.1
+* https://github.com/geo-tp/Cardputer-Game-Station-Emulators/releases/download/v0.1/cardputer_nes_emulator_01.bin  
+* Press and hold Btn Go, then turn on, so it will enter flash mode 
+```
+我测试过geo-tp/Cardputer-Game-Station-Emulators的v0.1版固件，
+可以烧录到m5stack cardputer上面玩（我是初版的card computer），
+不过显示效果不佳，也就是听个响。烧录需要用flash_download_tool_3.9.3烧录到0x0处，
+如果烧录失败，需要按住Btn Go按钮然后开机，这样就能确保进入烧录模式（屏幕没输出），
+然后再用80MHz和DOUT烧录
+```
