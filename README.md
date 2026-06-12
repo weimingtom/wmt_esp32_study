@@ -21,7 +21,11 @@ cygwin\opt\xtensa-esp32-elf
 
 * FLASH_DOWNLOAD_TOOLS  
 <> for esp32  
-(baidupan) FLASH_DOWNLOAD_TOOLS_V3.6.2.2_v1_good.rar  
+(baidupan) FLASH_DOWNLOAD_TOOLS_V3.6.2.2_v1_good.rar   
+https://dl.espressif.com/public/flash_download_tool.zip  
+https://www.espressif.com.cn/en/support/download/other-tools  
+https://docs.espressif.com/projects/esp-test-tools/en/latest/esp32/production_stage/tools/flash_download_tool.html    
+https://docs.espressif.com/projects/esp-test-tools/zh_CN/latest/esp32/production_stage/tools/flash_download_tool.html  
 
 * esplorer  
 <> for esp32, esp8266    
