@@ -27,6 +27,8 @@ cygwin\opt\xtensa-esp32-elf
 <> for esp32, esp8266    
 (baidupan) esplorer_v1.rar  
 
+* company used, esp-idf-v4.4.3  
+
 ## Arduino IDE, ESP32 version  
 * GPIO/SPI/UART/I2C/I2S Pin map picture:  
 https://github.com/espressif/arduino-esp32/tree/release/v1.0  
