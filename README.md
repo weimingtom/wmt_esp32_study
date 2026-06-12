@@ -52,6 +52,39 @@ https://files.seeedstudio.com/arduino/package_seeeduino_boards_index.json
 https://arduino.esp8266.com/stable/package_esp8266com_index.json  
 ```
 
+## ESP-IDF 5.4.2, for ESP32-P4   
+* ... best_version['checksums']) KeyError: 'checksums'
+```
+E:\Espressif542\python_env\idf5.4_py3.11_env\Lib\site-packages\idf_component_tools\registry\storage_client.py
+(see best_version['url']) #best_version['checksums']))
+        best_version['checksums_url'] = join_url(self.storage_url, best_version['url']) #best_version['checksums'])
+
+-----------
+(see two #, and adding 'pass')  
+E:\Espressif542\python_env\idf5.4_py3.11_env\Lib\site-packages\idf_component_tools\hash_tools\validate.py
+
+    root_path = Path(root)
+
+    if not root_path.exists():
+        raise ComponentNotFoundError(f'Component path "{root}" does not exist')
+
+    checksums_manager = ChecksumsManager(root_path)
+    hash_path = root_path / HASH_FILENAME
+
+    if checksums_manager.exists():
+        pass
+#        expected_checksums = checksums_manager.load()
+#        validate_checksums_eq_hashdir(root, expected_checksums)
+    elif hash_path.exists():
+        with open(hash_path, encoding='utf-8') as f:
+            expected_hash = f.read().strip()
+
+        validate_hash_eq_hashdir(root, expected_hash)
+    else:
+        raise HashNotFoundError(f'Hash file does not exist in "{root}"')
+
+```
+
 ## doc  
 * esp32 ref  
 https://docs.espressif.com/projects/esp-idf/en/latest/index.html  
