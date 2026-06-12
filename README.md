@@ -53,6 +53,7 @@ https://arduino.esp8266.com/stable/package_esp8266com_index.json
 ```
 
 ## ESP-IDF 5.4.2, for ESP32-P4   
+* https://dl.espressif.cn/dl/idf-installer/esp-idf-tools-setup-offline-5.4.2.exe  
 * ... best_version['checksums']) KeyError: 'checksums'
 ```
 E:\Espressif542\python_env\idf5.4_py3.11_env\Lib\site-packages\idf_component_tools\registry\storage_client.py
