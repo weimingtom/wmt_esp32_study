@@ -57,12 +57,14 @@ https://arduino.esp8266.com/stable/package_esp8266com_index.json
 * ... best_version['checksums']) KeyError: 'checksums'
 ```
 E:\Espressif542\python_env\idf5.4_py3.11_env\Lib\site-packages\idf_component_tools\registry\storage_client.py
+E:\Espressif544\python_env\idf5.4_py3.11_env\Lib\site-packages\idf_component_tools\registry\storage_client.py
 (see best_version['url']) #best_version['checksums']))
         best_version['checksums_url'] = join_url(self.storage_url, best_version['url']) #best_version['checksums'])
 
 -----------
 (see two #, and adding 'pass')  
 E:\Espressif542\python_env\idf5.4_py3.11_env\Lib\site-packages\idf_component_tools\hash_tools\validate.py
+E:\Espressif544\python_env\idf5.4_py3.11_env\Lib\site-packages\idf_component_tools\hash_tools\validate.py
 
     root_path = Path(root)
 
