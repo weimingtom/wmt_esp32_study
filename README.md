@@ -383,3 +383,19 @@ https://github.com/esphome/esphome
 如果烧录失败，需要按住Btn Go按钮然后开机，这样就能确保进入烧录模式（屏幕没输出），
 然后再用80MHz和DOUT烧录
 ```
+
+## ESP32-S31-Korvo-1的esp-idf的开发方法：
+```
+ESP32-S31-Korvo-1的esp-idf的开发方法：
+（1）运行eim-gui，选择离线安装，全部路径选择d盘下的目录（
+例如d:\esp和d:\esp\dist和d:\esp\tools）
+且全部勾选（否则c盘不够空间），
+安装esp-idf v6.1（出厂固件是v6.2）
+（2）打开eim点第一个按钮打开powershell，
+然后cd到esp-idf\examples\get-started\hello_world，然后编译
+（记得--preview要在idf.py紧跟着后面而不是最后面）
+idf.py --preview set-target esp32s31
+和
+idf.py --preview build flash monitor
+。开发板的usb是接串口（靠近开关）而不是接电源口
+```
