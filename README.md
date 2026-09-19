@@ -385,7 +385,15 @@ https://github.com/esphome/esphome
 ```
 
 ## ESP32-S31-Korvo-1的esp-idf的开发方法：
-* esp-idf  
+* https://dl.espressif.cn/dl/esp-idf/
+* https://dl.espressif.com/dl/eim/  
+* https://www.cnx-software.com/2026/08/22/espressif-systems-releases-a-linux-bsp-developer-preview-for-esp32-s31-risc-v-microprocessor/
+* https://x.com/cnxsoft/status/2091022194814120368
+* https://github.com/espressif/esp-linux-bsp
+* https://esp32-s31.espressif.com/en
+* https://gojimmypi.github.io/ESP32-S3-Linux/
+* https://documentation.espressif.com/en/home
+* esp-idf, and eim-gui    
 ```
 ESP32-S31-Korvo-1的esp-idf的开发方法：
 （1）运行eim-gui，选择离线安装，全部路径选择d盘下的目录（
@@ -400,7 +408,7 @@ idf.py --preview set-target esp32s31
 idf.py --preview build flash monitor
 。开发板的usb是接串口（靠近开关）而不是接电源口
 ```
-* linux
+* linux, GrieferPig/esp32-s31-linux
 ```
 我测试过ESP32-S31-Korvo-1确实是可以跑Linux的，但具体有什么作用我也不知（你可以认为没什么用），
 大概怎么烧录很简单，但编译我就没研究了：
