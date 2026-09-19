@@ -385,6 +385,7 @@ https://github.com/esphome/esphome
 ```
 
 ## ESP32-S31-Korvo-1的esp-idf的开发方法：
+* esp-idf  
 ```
 ESP32-S31-Korvo-1的esp-idf的开发方法：
 （1）运行eim-gui，选择离线安装，全部路径选择d盘下的目录（
@@ -398,4 +399,14 @@ idf.py --preview set-target esp32s31
 和
 idf.py --preview build flash monitor
 。开发板的usb是接串口（靠近开关）而不是接电源口
+```
+* linux
+```
+我测试过ESP32-S31-Korvo-1确实是可以跑Linux的，但具体有什么作用我也不知（你可以认为没什么用），
+大概怎么烧录很简单，但编译我就没研究了：
+（1）如果知道怎么esp-idf编译烧录hello_world，就可以用esptool.py烧录了：
+esptool.py -b 2000000 erase-flash
+，然后
+esptool.py -b 2000000 write-flash --flash-mode dio --flash-freq 80m --flash-size 16MB 0x0 .\s31_full_flash.bin
+，这个bin文件来源于GrieferPig/esp32-s31-linux的releases，我的版本是2026-09-08 03:35:21
 ```
