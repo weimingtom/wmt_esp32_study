@@ -423,4 +423,9 @@ esptool.py -b 2000000 write-flash --flash-mode dio --flash-freq 80m --flash-size
 * https://docs.espressif.com/projects/esp-dev-kits/zh_CN/latest/esp32s31/esp32-s31-korvo-1/user_guide.html
 * https://docs.espressif.com/projects/esp-idf/zh_CN/latest/esp32s31/get-started/index.html
 * https://github.com/espressif/esp-dev-kits/tree/3c0f632/examples/esp32-s31-korvo/examples/factory_demo
+* https://github.com/espressif/esp-bsp/blob/master/examples/display/sdkconfig.bsp.esp32_s31_korvo_1
+* https://espressif.github.io/esp-launchpad/
+* https://github.com/espressif/esp-board-manager/tree/main/esp_boards/esp32_s31_korvo_1
+* https://board-manager.espressif.com
+
 
