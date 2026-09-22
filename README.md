@@ -427,5 +427,7 @@ esptool.py -b 2000000 write-flash --flash-mode dio --flash-freq 80m --flash-size
 * https://espressif.github.io/esp-launchpad/
 * https://github.com/espressif/esp-board-manager/tree/main/esp_boards/esp32_s31_korvo_1
 * https://board-manager.espressif.com
+* https://github.com/fffonion/retro-go
+* https://github.com/PIGEON-SOFT/retro-go-s31
 
 
