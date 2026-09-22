@@ -418,3 +418,9 @@ esptool.py -b 2000000 erase-flash
 esptool.py -b 2000000 write-flash --flash-mode dio --flash-freq 80m --flash-size 16MB 0x0 .\s31_full_flash.bin
 ，这个bin文件来源于GrieferPig/esp32-s31-linux的releases，我的版本是2026-09-08 03:35:21
 ```
+* ESP32-S31-Korvo-1
+* https://esp32-s31.espressif.com/zh-hans/docs/1-开发板资源/ESP32-S31-Korvo-1
+* https://docs.espressif.com/projects/esp-dev-kits/zh_CN/latest/esp32s31/esp32-s31-korvo-1/user_guide.html
+* https://docs.espressif.com/projects/esp-idf/zh_CN/latest/esp32s31/get-started/index.html
+* https://github.com/espressif/esp-dev-kits/tree/3c0f632/examples/esp32-s31-korvo/examples/factory_demo
+
