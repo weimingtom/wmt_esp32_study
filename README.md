@@ -429,5 +429,10 @@ esptool.py -b 2000000 write-flash --flash-mode dio --flash-freq 80m --flash-size
 * https://board-manager.espressif.com
 * https://github.com/fffonion/retro-go
 * https://github.com/PIGEON-SOFT/retro-go-s31
-
-
+```
+我测试过PIGEON-SOFT/retro-go-s31可以运行在ESP32-S31-Korvo-1开发板上，
+虽然没有声音。TF卡可能需要用PSP格式化一下确保是准确的FAT32。
+好像不是所有ROM都支持，gba好像不行，甚至运行gba会导致需要重新烧录。
+测试这些可以：nes/snes/pce/lnx/sms/gg，而这些不行gb/gbc/gba，
+当然可以的那些也可能有部分会不支持
+```
