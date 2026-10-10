@@ -9,6 +9,7 @@ My ESP32 study
 * https://github.com/weimingtom/t-deck-esp32-s3-display
 * cardputer
 * esp32-s31-korvo-1
+* esplay-micro
 
 ## Tools  
 * esp-idf (for esp32)    
