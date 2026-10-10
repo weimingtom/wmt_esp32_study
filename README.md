@@ -1,6 +1,14 @@
 # wmt_esp32_study
 My ESP32 study
 
+## Boards
+* https://github.com/weimingtom/m5stack-tab5-esp32-p4-rv32ima
+* https://github.com/weimingtom/m5stack-tab5-esp32-p4-nofrendo
+* https://github.com/weimingtom/m5stack-tab5-esp32-p4-display
+* https://github.com/weimingtom/m5stack-cores3-se-esp32-s3-rv32ima
+* https://github.com/weimingtom/t-deck-esp32-s3-display
+* cardputer
+
 ## Tools  
 * esp-idf (for esp32)    
 https://dl.espressif.cn/dl/esp-idf/  
