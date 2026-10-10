@@ -8,6 +8,7 @@ My ESP32 study
 * https://github.com/weimingtom/m5stack-cores3-se-esp32-s3-rv32ima
 * https://github.com/weimingtom/t-deck-esp32-s3-display
 * cardputer
+* esp32-s31-korvo-1
 
 ## Tools  
 * esp-idf (for esp32)    
