@@ -10,12 +10,15 @@ https://github.com/weimingtom/m5stack-tab5-esp32-p4-display
 https://github.com/weimingtom/m5stack-cores3-se-esp32-s3-rv32ima  
 * T-Deck and T-Deck Pro  
 https://github.com/weimingtom/t-deck-esp32-s3-display  
+https://components.espressif.com/components/espp/t-deck/versions/1.3.7/readme  
 * cardputer  
 * esp32-s31-korvo-1
 * esplay-micro
 * waveshare-esp32-s3-touch-lcd-4.3b
 * esp32-s3-usb-otg
-* t-display-s3
+* t-display-s3  
+https://github.com/Xinyuan-LilyGO/T-Display-S3  
+https://github.com/Xinyuan-LilyGO/lilygo-micropython/issues/16   
 * t-watch-2020-v3
 * ttgo-vga-v1.4  
 https://github.com/LilyGO/FabGL  
