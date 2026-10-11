@@ -2,19 +2,22 @@
 My ESP32 study
 
 ## Boards
-* https://github.com/weimingtom/m5stack-tab5-esp32-p4-rv32ima
-* https://github.com/weimingtom/m5stack-tab5-esp32-p4-nofrendo
-* https://github.com/weimingtom/m5stack-tab5-esp32-p4-display
-* https://github.com/weimingtom/m5stack-cores3-se-esp32-s3-rv32ima
-* https://github.com/weimingtom/t-deck-esp32-s3-display
-* cardputer
+* M5Stack Tab5, M5Tab5  
+https://github.com/weimingtom/m5stack-tab5-esp32-p4-rv32ima  
+https://github.com/weimingtom/m5stack-tab5-esp32-p4-nofrendo  
+https://github.com/weimingtom/m5stack-tab5-esp32-p4-display  
+* M5Stack CoreS3 SE with Bottom3 and keyboard  
+https://github.com/weimingtom/m5stack-cores3-se-esp32-s3-rv32ima  
+* T-Deck and T-Deck Pro  
+https://github.com/weimingtom/t-deck-esp32-s3-display  
+* cardputer  
 * esp32-s31-korvo-1
 * esplay-micro
 * waveshare-esp32-s3-touch-lcd-4.3b
 * esp32-s3-usb-otg
 * t-display-s3
 * t-watch-2020-v3
-* ttgo-vga-v1.4
+* ttgo-vga-v1.4  
 https://github.com/LilyGO/FabGL  
 https://github.com/OLIMEX/ESP32-SBC-FabGL/blob/main/SOFTWARE/FabGL_PCEmulator/PCEmulator/machine.cpp  
 https://github.com/Zille9/ESP32-FabGL-Retro-Computer/tree/FABGL-Basic  
