@@ -3,10 +3,18 @@ My ESP32 study
 
 ## Boards
 * M5Stack Tab5, M5Tab5  
+https://docs.m5stack.com/en/core/Tab5  
+https://docs.m5stack.com/en/tab5/Tab5_Keyboard  
+https://components.espressif.com/components/espressif/m5stack_tab5/versions/1.0.0/readme  
+https://github.com/m5stack/M5Tab5-UserDemo  
+https://github.com/m5stack/M5Tab5-Keyboard-UserDemo  
+
 https://github.com/weimingtom/m5stack-tab5-esp32-p4-rv32ima  
 https://github.com/weimingtom/m5stack-tab5-esp32-p4-nofrendo  
 https://github.com/weimingtom/m5stack-tab5-esp32-p4-display  
 * M5Stack CoreS3 SE with Bottom3 and keyboard  
+https://docs.m5stack.com/en/core/CoreS3-SE  
+https://github.com/m5stack/CoreS3-UserDemo  
 https://github.com/weimingtom/m5stack-cores3-se-esp32-s3-rv32ima  
 * T-Deck and T-Deck Pro   
 https://github.com/Xinyuan-LilyGO/T-Deck  
