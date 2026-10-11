@@ -10,7 +10,7 @@ My ESP32 study
 * cardputer
 * esp32-s31-korvo-1
 * esplay-micro
-* waveshare-esp32-s3-touch-lcd-4.3B
+* waveshare-esp32-s3-touch-lcd-4.3b
 * esp32-s3-usb-otg
 * t-display-s3
 * t-watch-2020-v3
