@@ -11,20 +11,31 @@ https://github.com/weimingtom/m5stack-cores3-se-esp32-s3-rv32ima
 * T-Deck and T-Deck Pro  
 https://github.com/weimingtom/t-deck-esp32-s3-display  
 https://components.espressif.com/components/espp/t-deck/versions/1.3.7/readme  
+https://github.com/weimingtom/wmt_tdeck_study  
 * cardputer  
 * esp32-s31-korvo-1
 * esplay-micro
-* waveshare-esp32-s3-touch-lcd-4.3b
+* waveshare-esp32-s3-touch-lcd-4.3b  
+https://github.com/weimingtom/Waveshare-ESP32-S3-Touch-LCD-4.3B_playground  
 * esp32-s3-usb-otg
 * t-display-s3  
 https://github.com/Xinyuan-LilyGO/T-Display-S3  
 https://github.com/Xinyuan-LilyGO/lilygo-micropython/issues/16   
 * t-watch-2020-v3
+https://github.com/Xinyuan-LilyGO/TTGO_TWatch_Library  
+https://github.com/weimingtom/dino_twatch2020v3  
 * ttgo-vga-v1.4  
 https://github.com/LilyGO/FabGL  
 https://github.com/OLIMEX/ESP32-SBC-FabGL/blob/main/SOFTWARE/FabGL_PCEmulator/PCEmulator/machine.cpp  
 https://github.com/Zille9/ESP32-FabGL-Retro-Computer/tree/FABGL-Basic  
 https://github.com/fdivitto/FabGL/tree/master/examples/VGA/PCEmulator  
+* WT32-SC01  
+https://github.com/wireless-tag-com/8ms-esp32  
+https://github.com/wireless-tag-com/WT32-SC01  
+https://github.com/dudals-jung/WT32-SC01-PLUS-LVGL-IDF  
+https://github.com/weimingtom/wt32sc01  
+* Ai-Thinker ESP32-A1S
+https://github.com/weimingtom/Ai-Thinker-Open_ESP32-A1S_ASR_SDK  
 
 ## Tools  
 * esp-idf (for esp32)    
