@@ -12,6 +12,9 @@ My ESP32 study
 * esplay-micro
 * waveshare-esp32-s3-touch-lcd-4.3B
 * esp32-s3-usb-otg
+* t-display-s3
+* t-watch-2020-v3
+* ttgo-vga-v1.4
 
 ## Tools  
 * esp-idf (for esp32)    
