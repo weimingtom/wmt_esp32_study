@@ -8,7 +8,7 @@ https://docs.m5stack.com/en/tab5/Tab5_Keyboard
 https://components.espressif.com/components/espressif/m5stack_tab5/versions/1.0.0/readme  
 https://github.com/m5stack/M5Tab5-UserDemo  
 https://github.com/m5stack/M5Tab5-Keyboard-UserDemo  
-
+https://github.com/espressif/esp-bsp/blob/master/examples/display_lvgl_demos/sdkconfig.bsp.m5stack_tab5  
 https://github.com/weimingtom/m5stack-tab5-esp32-p4-rv32ima  
 https://github.com/weimingtom/m5stack-tab5-esp32-p4-nofrendo  
 https://github.com/weimingtom/m5stack-tab5-esp32-p4-display  
