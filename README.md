@@ -12,7 +12,14 @@ https://github.com/weimingtom/m5stack-cores3-se-esp32-s3-rv32ima
 https://github.com/weimingtom/t-deck-esp32-s3-display   
 https://components.espressif.com/components/espp/t-deck/versions/1.3.7/readme   
 https://github.com/weimingtom/wmt_tdeck_study   
-* cardputer   
+* M5Stack Cardputer, m5cardputer     
+https://docs.m5stack.com/en/core/Cardputer-Adv  
+https://github.com/m5stack/M5Cardputer/blob/master/examples/Basic/display/display.ino  
+https://github.com/m5stack/M5Cardputer-UserDemo  
+https://github.com/m5stack/M5Cardputer-UserDemo/tree/CardputerADV  
+https://github.com/m5stack/M5Cardputer  
+work_m5cardputer  
+https://docs.m5stack.com/en/arduino/m5cardputer/program  
 * esp32-s31-korvo-1   
 https://esp32-s31.espressif.com/en  
 https://docs.espressif.com/projects/esp-dev-kits/en/latest/esp32s31/esp32-s31-korvo-1/user_guide.html#esp32-s31-korvo-1-v1-1  
@@ -27,6 +34,8 @@ https://github.com/ducalex/retro-go/releases/download/1.46/retro-go_1.46_esplay-
 * waveshare-esp32-s3-touch-lcd-4.3b    
 https://github.com/weimingtom/Waveshare-ESP32-S3-Touch-LCD-4.3B_playground  
 * esp32-s3-usb-otg  
+https://docs.espressif.com/projects/esp-dev-kits/en/latest/esp32s3/esp32-s3-usb-otg/user_guide.html    
+https://github.com/espressif/esp-dev-kits/tree/master/examples/esp32-s3-usb-otg/examples/factory  
 * t-display-s3  
 https://github.com/Xinyuan-LilyGO/T-Display-S3  
 https://github.com/Xinyuan-LilyGO/lilygo-micropython/issues/16   
