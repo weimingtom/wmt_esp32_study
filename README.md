@@ -8,20 +8,30 @@ https://github.com/weimingtom/m5stack-tab5-esp32-p4-nofrendo
 https://github.com/weimingtom/m5stack-tab5-esp32-p4-display  
 * M5Stack CoreS3 SE with Bottom3 and keyboard  
 https://github.com/weimingtom/m5stack-cores3-se-esp32-s3-rv32ima  
-* T-Deck and T-Deck Pro  
-https://github.com/weimingtom/t-deck-esp32-s3-display  
-https://components.espressif.com/components/espp/t-deck/versions/1.3.7/readme  
-https://github.com/weimingtom/wmt_tdeck_study  
-* cardputer  
-* esp32-s31-korvo-1
-* esplay-micro
-* waveshare-esp32-s3-touch-lcd-4.3b  
+* T-Deck and T-Deck Pro   
+https://github.com/weimingtom/t-deck-esp32-s3-display   
+https://components.espressif.com/components/espp/t-deck/versions/1.3.7/readme   
+https://github.com/weimingtom/wmt_tdeck_study   
+* cardputer   
+* esp32-s31-korvo-1   
+https://esp32-s31.espressif.com/en  
+https://docs.espressif.com/projects/esp-dev-kits/en/latest/esp32s31/esp32-s31-korvo-1/user_guide.html#esp32-s31-korvo-1-v1-1  
+https://github.com/espressif/esp-bsp/blob/master/examples/display/sdkconfig.bsp.esp32_s31_korvo_1  
+https://github.com/espressif/esp-dev-kits/tree/master/examples/esp32-s31-korvo/examples/factory_demo  
+* esplay-micro  
+https://github.com/pebri86/esplay_micro_hardware  
+https://github.com/pebri86/esplay-micro-firmware-collections  
+https://github.com/pebri86/esplay-retro-emulation  
+https://github.com/ducalex/retro-go  
+https://github.com/ducalex/retro-go/releases/download/1.46/retro-go_1.46_esplay-micro.img  
+* waveshare-esp32-s3-touch-lcd-4.3b    
 https://github.com/weimingtom/Waveshare-ESP32-S3-Touch-LCD-4.3B_playground  
-* esp32-s3-usb-otg
+* esp32-s3-usb-otg  
 * t-display-s3  
 https://github.com/Xinyuan-LilyGO/T-Display-S3  
 https://github.com/Xinyuan-LilyGO/lilygo-micropython/issues/16   
-* t-watch-2020-v3
+https://github.com/Xinyuan-LilyGO/T-Display-S3/blob/main/example/nes/nes.ino  
+* t-watch-2020-v3  
 https://github.com/Xinyuan-LilyGO/TTGO_TWatch_Library  
 https://github.com/weimingtom/dino_twatch2020v3  
 * ttgo-vga-v1.4  
