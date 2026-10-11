@@ -34,8 +34,10 @@ https://github.com/wireless-tag-com/8ms-esp32
 https://github.com/wireless-tag-com/WT32-SC01  
 https://github.com/dudals-jung/WT32-SC01-PLUS-LVGL-IDF  
 https://github.com/weimingtom/wt32sc01  
-* Ai-Thinker ESP32-A1S
+* esp32-audio-kit, Ai-Thinker ESP32-A1S  
 https://github.com/weimingtom/Ai-Thinker-Open_ESP32-A1S_ASR_SDK  
+https://github.com/espressif/esp-skainet  
+https://github.com/RealCorebb/ESP32-A1s-Audio-Kit  
 
 ## Tools  
 * esp-idf (for esp32)    
