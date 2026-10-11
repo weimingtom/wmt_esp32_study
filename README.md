@@ -9,6 +9,8 @@ https://github.com/weimingtom/m5stack-tab5-esp32-p4-display
 * M5Stack CoreS3 SE with Bottom3 and keyboard  
 https://github.com/weimingtom/m5stack-cores3-se-esp32-s3-rv32ima  
 * T-Deck and T-Deck Pro   
+https://github.com/Xinyuan-LilyGO/T-Deck  
+https://github.com/Xinyuan-LilyGO/T-Deck/blob/master/examples/UnitTest/UnitTest.ino  
 https://github.com/weimingtom/t-deck-esp32-s3-display   
 https://components.espressif.com/components/espp/t-deck/versions/1.3.7/readme   
 https://github.com/weimingtom/wmt_tdeck_study   
