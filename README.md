@@ -53,6 +53,7 @@ https://github.com/Xinyuan-LilyGO/T-Display-S3/blob/main/example/nes/nes.ino
 * t-watch-2020-v3  
 https://github.com/Xinyuan-LilyGO/TTGO_TWatch_Library  
 https://github.com/weimingtom/dino_twatch2020v3  
+https://github.com/sharandac/My-TTGO-Watch  
 * ttgo-vga-v1.4  
 https://github.com/LilyGO/FabGL  
 https://github.com/OLIMEX/ESP32-SBC-FabGL/blob/main/SOFTWARE/FabGL_PCEmulator/PCEmulator/machine.cpp  
