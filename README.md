@@ -12,6 +12,8 @@ https://github.com/espressif/esp-bsp/blob/master/examples/display_lvgl_demos/sdk
 https://github.com/weimingtom/m5stack-tab5-esp32-p4-rv32ima  
 https://github.com/weimingtom/m5stack-tab5-esp32-p4-nofrendo  
 https://github.com/weimingtom/m5stack-tab5-esp32-p4-display  
+https://burner.m5stack.com/device/tab5  
+https://burner.m5stack.com/developers/102976  
 * M5Stack CoreS3 SE with Bottom3 and keyboard  
 https://docs.m5stack.com/en/core/CoreS3-SE  
 https://github.com/m5stack/CoreS3-UserDemo  
