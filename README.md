@@ -506,3 +506,7 @@ esptool.py -b 2000000 write-flash --flash-mode dio --flash-freq 80m --flash-size
 测试这些可以：nes/snes/pce/lnx/sms/gg，而这些不行gb/gbc/gba，
 当然可以的那些也可能有部分会不支持
 ```
+
+## wokwi  
+* https://github.com/wokwi/esp-mosaico-demo
+* https://wokwi.com
