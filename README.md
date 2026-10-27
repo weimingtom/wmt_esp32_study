@@ -510,3 +510,10 @@ esptool.py -b 2000000 write-flash --flash-mode dio --flash-freq 80m --flash-size
 ## wokwi  
 * https://github.com/wokwi/esp-mosaico-demo
 * https://wokwi.com
+* ===
+* https://github.com/espressif/esp-emulator
+* ===
+* https://mikroverk.github.io/esp32sim/
+* https://github.com/mikroverk/esp32sim
+* ===
+* https://velxio.dev
