@@ -123,6 +123,7 @@ https://arduino.esp8266.com/stable/package_esp8266com_index.json
 ```
 
 ## ESP-IDF 5.4.2, for ESP32-P4 (same as ESP-IDF 5.4.4)   
+* https://dl.espressif.cn/dl/esp-idf/  
 * https://dl.espressif.cn/dl/idf-installer/esp-idf-tools-setup-offline-5.4.2.exe  
 * ... best_version['checksums']) KeyError: 'checksums'
 ```
