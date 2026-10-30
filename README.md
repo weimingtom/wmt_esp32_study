@@ -520,3 +520,5 @@ esptool.py -b 2000000 write-flash --flash-mode dio --flash-freq 80m --flash-size
 * https://mikroverk.github.io/esp32sim/
 * https://github.com/mikroverk/esp32sim
 
+## Dabble, for bluetooth and BLE
+* https://github.com/STEMpedia/DabbleESP32
