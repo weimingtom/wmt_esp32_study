@@ -527,3 +527,5 @@ esptool.py -b 2000000 write-flash --flash-mode dio --flash-freq 80m --flash-size
 * https://play.google.com/store/apps/details?id=io.dabbleapp
 * https://ai.thestempedia.com/docs/dabble-app/
 * https://docs.arduino.cc/libraries/dabble/#Releases
+* https://diyusthad.com/2024/12/dabble-on-esp32-and-arduino.html
+
