@@ -528,4 +528,11 @@ esptool.py -b 2000000 write-flash --flash-mode dio --flash-freq 80m --flash-size
 * https://ai.thestempedia.com/docs/dabble-app/
 * https://docs.arduino.cc/libraries/dabble/#Releases
 * https://diyusthad.com/2024/12/dabble-on-esp32-and-arduino.html
+* ====
+* io.dabbleapp_v1.0.6.apk
+* https://github.com/Xinyuan-LilyGO/T-Display-S3/tree/main/lib/DabbleESP32
+* https://lilygo.cc/en-us/products/t-display-s3
+* https://github.com/Xinyuan-LilyGO/T-Display-S3/blob/main/examples/nes/pin_config.h
+* https://github.com/Xinyuan-LilyGO/T-Display-S3/blob/main/examples/nes/controller.cpp
+
 
