@@ -529,7 +529,7 @@ esptool.py -b 2000000 write-flash --flash-mode dio --flash-freq 80m --flash-size
 * https://docs.arduino.cc/libraries/dabble/#Releases
 * https://diyusthad.com/2024/12/dabble-on-esp32-and-arduino.html
 * ====
-* io.dabbleapp_v1.0.6.apk
+* io.dabbleapp_v1.0.6.apk, **注：只支持红米4A,安卓6,其他会无法使用连接蓝牙设备**
 * https://github.com/Xinyuan-LilyGO/T-Display-S3/tree/main/lib/DabbleESP32
 * https://lilygo.cc/en-us/products/t-display-s3
 * https://github.com/Xinyuan-LilyGO/T-Display-S3/blob/main/examples/nes/pin_config.h
