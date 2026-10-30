@@ -522,3 +522,8 @@ esptool.py -b 2000000 write-flash --flash-mode dio --flash-freq 80m --flash-size
 
 ## Dabble, for bluetooth and BLE
 * https://github.com/STEMpedia/DabbleESP32
+* agilo
+* https://thestempedia.com/product/dabble/
+* https://play.google.com/store/apps/details?id=io.dabbleapp
+* https://ai.thestempedia.com/docs/dabble-app/
+* https://docs.arduino.cc/libraries/dabble/#Releases
