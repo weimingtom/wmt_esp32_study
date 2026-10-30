@@ -15,9 +15,10 @@ https://github.com/weimingtom/m5stack-tab5-esp32-p4-display
 https://burner.m5stack.com/device/tab5  
 https://burner.m5stack.com/developers/102976    
 https://github.com/mochimochi-man/np2_TAB5  
-* Waveshare 10.1 inch esp32-p4    
-https://docs.waveshare.net/ESP32-P4-WIFI6-Touch-LCD-X  
-https://github.com/waveshareteam/ESP32-P4-WIFI6-Touch-LCD-X  
+* Waveshare 10.1 inch esp32-p4      
+https://docs.waveshare.net/ESP32-P4-WIFI6-Touch-LCD-X    
+https://github.com/waveshareteam/ESP32-P4-WIFI6-Touch-LCD-X    
+https://github.com/weimingtom/waveshare-10inch-esp32-p4-display  
 * M5Stack CoreS3 SE with Bottom3 and keyboard  
 https://docs.m5stack.com/en/core/CoreS3-SE  
 https://github.com/m5stack/CoreS3-UserDemo  
