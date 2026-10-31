@@ -19,6 +19,9 @@ https://github.com/mochimochi-man/np2_TAB5
 https://docs.waveshare.net/ESP32-P4-WIFI6-Touch-LCD-X    
 https://github.com/waveshareteam/ESP32-P4-WIFI6-Touch-LCD-X    
 https://github.com/weimingtom/waveshare-10inch-esp32-p4-display  
+https://github.com/espressif/esp-brookesia  
+https://github.com/atombloom/brookesia_core  
+https://github.com/fellow99/ESP32-S3-Touch-AMOLED-1.75C-brookesia  
 * M5Stack CoreS3 SE with Bottom3 and keyboard  
 https://docs.m5stack.com/en/core/CoreS3-SE  
 https://github.com/m5stack/CoreS3-UserDemo  
