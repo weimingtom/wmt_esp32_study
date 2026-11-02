@@ -40,6 +40,7 @@ https://github.com/meshcore-dev/meshcore
 https://meshcore.io/flasher  
 https://bruce.computer/flasher  
 https://flasher.meshtastic.org  
+https://github.com/meshtastic/firmware  
 
 * M5Stack Cardputer, m5cardputer     
 https://docs.m5stack.com/en/core/Cardputer-Adv  
