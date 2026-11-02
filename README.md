@@ -15,6 +15,7 @@ https://github.com/weimingtom/m5stack-tab5-esp32-p4-display
 https://burner.m5stack.com/device/tab5  
 https://burner.m5stack.com/developers/102976    
 https://github.com/mochimochi-man/np2_TAB5  
+
 * Waveshare 10.1 inch esp32-p4      
 https://docs.waveshare.net/ESP32-P4-WIFI6-Touch-LCD-X    
 https://github.com/waveshareteam/ESP32-P4-WIFI6-Touch-LCD-X    
@@ -26,6 +27,7 @@ https://github.com/fellow99/ESP32-S3-Touch-AMOLED-1.75C-brookesia
 https://docs.m5stack.com/en/core/CoreS3-SE  
 https://github.com/m5stack/CoreS3-UserDemo  
 https://github.com/weimingtom/m5stack-cores3-se-esp32-s3-rv32ima  
+
 * T-Deck and T-Deck Pro   
 https://github.com/Xinyuan-LilyGO/T-Deck  
 https://github.com/Xinyuan-LilyGO/T-Deck/blob/master/examples/UnitTest/UnitTest.ino  
@@ -35,6 +37,8 @@ https://github.com/weimingtom/wmt_tdeck_study
 https://github.com/ratspeak/ratspeak-handheld  
 https://flasher.meshcore.io/lilygo-t-deck/  
 https://github.com/meshcore-dev/meshcore  
+https://meshcore.io/flasher  
+
 * M5Stack Cardputer, m5cardputer     
 https://docs.m5stack.com/en/core/Cardputer-Adv  
 https://github.com/m5stack/M5Cardputer/blob/master/examples/Basic/display/display.ino  
@@ -43,40 +47,49 @@ https://github.com/m5stack/M5Cardputer-UserDemo/tree/CardputerADV
 https://github.com/m5stack/M5Cardputer  
 work_m5cardputer  
 https://docs.m5stack.com/en/arduino/m5cardputer/program  
+
 * esp32-s31-korvo-1   
 https://esp32-s31.espressif.com/en  
 https://docs.espressif.com/projects/esp-dev-kits/en/latest/esp32s31/esp32-s31-korvo-1/user_guide.html#esp32-s31-korvo-1-v1-1  
 https://github.com/espressif/esp-bsp/blob/master/examples/display/sdkconfig.bsp.esp32_s31_korvo_1  
 https://github.com/espressif/esp-dev-kits/tree/master/examples/esp32-s31-korvo/examples/factory_demo  
+
 * esplay-micro  
 https://github.com/pebri86/esplay_micro_hardware  
 https://github.com/pebri86/esplay-micro-firmware-collections  
 https://github.com/pebri86/esplay-retro-emulation  
 https://github.com/ducalex/retro-go  
 https://github.com/ducalex/retro-go/releases/download/1.46/retro-go_1.46_esplay-micro.img  
+
 * waveshare-esp32-s3-touch-lcd-4.3b    
 https://github.com/weimingtom/Waveshare-ESP32-S3-Touch-LCD-4.3B_playground  
+
 * esp32-s3-usb-otg  
 https://docs.espressif.com/projects/esp-dev-kits/en/latest/esp32s3/esp32-s3-usb-otg/user_guide.html    
 https://github.com/espressif/esp-dev-kits/tree/master/examples/esp32-s3-usb-otg/examples/factory  
+
 * t-display-s3  
 https://github.com/Xinyuan-LilyGO/T-Display-S3  
 https://github.com/Xinyuan-LilyGO/lilygo-micropython/issues/16   
 https://github.com/Xinyuan-LilyGO/T-Display-S3/blob/main/example/nes/nes.ino  
+
 * t-watch-2020-v3  
 https://github.com/Xinyuan-LilyGO/TTGO_TWatch_Library  
 https://github.com/weimingtom/dino_twatch2020v3  
 https://github.com/sharandac/My-TTGO-Watch  
+
 * ttgo-vga-v1.4  
 https://github.com/LilyGO/FabGL  
 https://github.com/OLIMEX/ESP32-SBC-FabGL/blob/main/SOFTWARE/FabGL_PCEmulator/PCEmulator/machine.cpp  
 https://github.com/Zille9/ESP32-FabGL-Retro-Computer/tree/FABGL-Basic  
 https://github.com/fdivitto/FabGL/tree/master/examples/VGA/PCEmulator  
+
 * WT32-SC01  
 https://github.com/wireless-tag-com/8ms-esp32  
 https://github.com/wireless-tag-com/WT32-SC01  
 https://github.com/dudals-jung/WT32-SC01-PLUS-LVGL-IDF  
 https://github.com/weimingtom/wt32sc01  
+
 * esp32-audio-kit, Ai-Thinker ESP32-A1S  
 https://github.com/weimingtom/Ai-Thinker-Open_ESP32-A1S_ASR_SDK  
 https://github.com/espressif/esp-skainet  
