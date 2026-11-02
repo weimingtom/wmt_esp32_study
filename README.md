@@ -38,6 +38,7 @@ https://github.com/ratspeak/ratspeak-handheld
 https://flasher.meshcore.io/lilygo-t-deck/  
 https://github.com/meshcore-dev/meshcore  
 https://meshcore.io/flasher  
+https://bruce.computer/flasher  
 
 * M5Stack Cardputer, m5cardputer     
 https://docs.m5stack.com/en/core/Cardputer-Adv  
