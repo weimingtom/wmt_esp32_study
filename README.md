@@ -31,7 +31,8 @@ https://github.com/Xinyuan-LilyGO/T-Deck
 https://github.com/Xinyuan-LilyGO/T-Deck/blob/master/examples/UnitTest/UnitTest.ino  
 https://github.com/weimingtom/t-deck-esp32-s3-display   
 https://components.espressif.com/components/espp/t-deck/versions/1.3.7/readme   
-https://github.com/weimingtom/wmt_tdeck_study   
+https://github.com/weimingtom/wmt_tdeck_study    
+https://github.com/ratspeak/ratspeak-handheld  
 * M5Stack Cardputer, m5cardputer     
 https://docs.m5stack.com/en/core/Cardputer-Adv  
 https://github.com/m5stack/M5Cardputer/blob/master/examples/Basic/display/display.ino  
