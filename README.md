@@ -41,6 +41,8 @@ https://meshcore.io/flasher
 https://bruce.computer/flasher  
 https://flasher.meshtastic.org  
 https://github.com/meshtastic/firmware  
+https://laserir.github.io/MCLite/tools/web-flasher/?target=tdeck-plus  
+https://github.com/laserir/MCLite  
 
 * M5Stack Cardputer, m5cardputer     
 https://docs.m5stack.com/en/core/Cardputer-Adv  
